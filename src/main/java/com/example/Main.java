@@ -73,14 +73,13 @@ public class Main {
 
   @RequestMapping("/db")
   String db(Map<String, Object> model) {
-  	    static final String USERNAME     = "rikitsus@fsi.co.jp";
+  	static final String USERNAME     = "rikitsus@fsi.co.jp";
     static final String PASSWORD     = "aimi9029";
     static final String LOGINURL     = "https://login.salesforce.com";
     static final String GRANTSERVICE = "/services/oauth2/token?grant_type=password";
     static final String CLIENTID     = "3MVG9d8..z.hDcPJdLBa.M9Z7BCC.6owuDjFWJqZf6Z10FYMKIXW6HaX8feL0iNojerSpzR.WdpCKneCPZgXA";
     static final String CLIENTSECRET = "1505113103918214908";
 
-    public static void main(String[] args) {
 
         DefaultHttpClient httpclient = new DefaultHttpClient();
 
