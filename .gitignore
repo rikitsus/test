@@ -1,4 +1,9 @@
 target
-.env
-.idea/
+.classpath
+.project
+.settings
+.idea
+.testenv
 *.iml
+test.properties
+release-repo
