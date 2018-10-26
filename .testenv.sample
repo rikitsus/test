@@ -1,8 +1,0 @@
-# Test fixture
-export username=rikitsus@fsi.co.jp
-export password=aimi9029
-export iprestrictedUsername=rikitsus@fsi.co.jp
-export iprestrictedPassword=aimi9029
-export clientId=3MVG9d8..z.hDcPJdLBa.M9Z7BCC.6owuDjFWJqZf6Z10FYMKIXW6HaX8feL0iNojerSpzR.WdpCKneCPZgXA
-export clientSecret=1505113103918214908
-export redirectURI=http://localhost:5000/_auth
